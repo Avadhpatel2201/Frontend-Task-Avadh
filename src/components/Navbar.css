@@ -1,0 +1,35 @@
+.top-header {
+  background-color: #000;
+  /* color: #fff; */
+  padding: 10px 0;
+}
+
+.border-bottom{
+  border-bottom: 1px solid #CED7DE26;
+}
+
+.font-size-navLinks {
+  font-size: 20px;
+}
+
+.margin-left-0 {
+  margin-left: 0 !important;
+}
+
+.top-header i {
+  cursor: pointer;
+}
+
+.top-header i:hover {
+  color: #f39c12;
+}
+
+.nav-link-hover:active {
+  border: 1px solid #7D838600;
+  border-radius: 30px;
+}
+
+.border-shoping-cart {
+  border: 1px solid #000;
+  border-radius: 30px;
+} 
